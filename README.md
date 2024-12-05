@@ -6,8 +6,9 @@ Unity developer ∙ Front-end developer ∙ Photoshop editor
 
 I'm an experienced Unity game developer, proficient in Front-end web development, skilled in Photoshop photo editing, and adept at video editing with Premier Pro. Game development is not just my profession but my passion. I've created a dedicated website to showcase and publish my game projects.
 
-* 🌍  I'm based in Україна
+* 🌍  I'm based in **Ukraine**
 * 🖥️  See my portfolio at [TheDeiwsGames](http://https://thedeiw.github.io/TheDeiwGames/index.html)
+* 🎓   I'm studying in [Lviv Polytechnic National University](https://lpnu.ua/en) in major **Software Engineering**
 
 ### Skills
 
