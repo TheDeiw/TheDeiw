@@ -24,5 +24,5 @@ I'm an experienced Unity game developer, proficient in Front-end web development
 
 ### Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDeiw&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeiw&layout=compact&bg_color=00000000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDeiw&show_icons=true&bg_color=00000000&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeiw&layout=compact&bg_color=00000000&hide_border=true)
