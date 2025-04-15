@@ -7,8 +7,9 @@ Unity developer ∙ Front-end developer ∙ Photoshop editor
 I'm an experienced Unity game developer, proficient in Front-end web development, skilled in Photoshop photo editing, and adept at video editing with Premier Pro. Game development is not just my profession but my passion. I've created a dedicated website to showcase and publish my game projects.
 
 * 🌍  I'm based in **Ukraine**
-* 🖥️  See my portfolio at [TheDeiwsGames](https://thedeiw.github.io/TheDeiwGames/index.html)
-* 🎓   I'm studying in [Lviv Polytechnic National University](https://lpnu.ua/en) in major **Software Engineering**
+* 🖥️  See my portfolio at [My Website](https://thedeiw.github.io/TheDeiwPortfolio)
+* 👾  My game development brand [TheDeiwsGames](https://thedeiw.github.io/TheDeiwGames/index.html) 
+* 🎓  I'm studying in [Lviv Polytechnic National University](https://lpnu.ua/en) in major **Software Engineering**
 
 ### Skills
 
@@ -26,4 +27,4 @@ I'm an experienced Unity game developer, proficient in Front-end web development
 ### Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDeiw&show_icons=true&bg_color=00000000&hide_border=true&rank_icon=percentile&include_all_commits=true&text_color=2f80ed&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeiw&layout=compact&bg_color=00000000&hide_border=true&text_color=2f80ed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeiw&layout=compact&bg_color=00000000&hide_border=true&text_color=2f80ed&langs_count=8&exclude_repo=Paw-of-Hope&hide_progress=true)
