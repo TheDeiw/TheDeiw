@@ -4,7 +4,7 @@ Hi 👋 My name is TheDeiw
 Unity developer
 --------------------------------------------------------
 
-I'm an experienced Unity game developer, proficient in Front-end web development, skilled in Photoshop photo editing, and adept at video editing with Premier Pro. Game development is not just my profession but my passion. I've created a dedicated website to showcase and publish my game projects.
+Versatile Unity Game Developer with a deep passion for building engaging interactive experiences. As the creator behind my own indie brand, TheDeiw's Games, I independently develop, showcase, and publish my projects. My core expertise lies in Unity and C#, and I am highly adaptable to various types of game development. Additionally, I am an AI/ML enthusiast with a strong interest in VR technologies, constantly exploring new ways to enhance interactive media. I also leverage supplementary skills in Photoshop and Premiere Pro for asset and promotional material creation.
 
 * 🌍  I'm based in  **Ukraine** <img width="20" height="20" alt="image" align="center" src="https://github.com/user-attachments/assets/fbebefc3-7b55-4fb1-81ab-59ecc656f1bc" />
 * 🖥️  See my portfolio at [My Website](https://thedeiw.github.io/TheDeiwPortfolio)
