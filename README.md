@@ -1,7 +1,7 @@
 Hi 👋 My name is TheDeiw
 ========================
 
-Unity developer ∙ Front-end developer ∙ Photoshop editor
+Unity developer
 --------------------------------------------------------
 
 I'm an experienced Unity game developer, proficient in Front-end web development, skilled in Photoshop photo editing, and adept at video editing with Premier Pro. Game development is not just my profession but my passion. I've created a dedicated website to showcase and publish my game projects.
